@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m Flutter Developer
+- I’m Mobile Developer
 - I’m SEO Specialist
-- I’m Backend Developer (Junior)
+- I’m Backend Developer
 
